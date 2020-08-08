@@ -11,11 +11,21 @@
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "React",
+      "date": "August 2, 2020", 
+      "category": "IT & Software",
+      "tags": "React, Frontend",
+      "body": "adsadlasjdk",
+      "references": "YOutube"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "World War I",
+      "date": "August 3, 2020", 
+      "category": "History",
+      "tags": "World History",
+      "body": "adsadlasjdk",
+      "references": "YOutube"
     }
   ],
   "comments": [
