@@ -1,43 +1,19 @@
 {
-  "posts": [
+  "journal": [
     {
-      "id": 1,
-      "title": "Java Springssss",
-      "date": "August 1, 2020", 
-      "category": "IT & Software",
-      "tags": "Java, Spring",
-      "body": "adsadlasjdk",
-      "references": "YOutube"
+      "date": "2021-02-28",
+      "title": "Cramming-galore",
+      "story": "So i was cramming before my first day of work at a new company"
     },
     {
-      "id": 2,
-      "title": "React",
-      "date": "August 2, 2020", 
-      "category": "IT & Software",
-      "tags": "React, Frontend",
-      "body": "adsadlasjdk",
-      "references": "YOutube"
+      "date": "2021-02-27",
+      "title": "Drive to BGC",
+      "story": "Drove my tita to BGC. Walked and ate at Shake shack"
     },
     {
-      "id": 3,
-      "title": "World War I",
-      "date": "August 3, 2020", 
-      "category": "History",
-      "tags": "World History",
-      "body": "adsadlasjdk",
-      "references": "YOutube"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "date": "2021-02-26",
+      "title": "Goodbye Infor",
+      "story": "Last day was pure of emotions. Said my goodbyes."
     }
   ],
   "profile": {
